@@ -1,0 +1,12 @@
+350,600,0.01,0.01,-4.5,-46.0
+
+NX,NY,DX,DY,X0,Y0
+
+Description:
+
+NX = Number of points in the X direction
+NY = Number of points in the Y direction
+DX = Value for the step in the X axis
+DY = Value for the step in the Y axis
+X0 = Initial position on X axis
+Y0 = Initial position on Y axis

@@ -1,0 +1,19 @@
+77361
+155204,2785.,2778.
+2288,21859.,21754.
+"C:\Users\Boris\Desktop\Grav_crust\NOVO\Input\"
+"C:\Users\Boris\Desktop\Grav_crust\NOVO\Output\"
+xyz_obs.dat
+top_crust.dat
+bottom_crust.dat
+
+--- The main program reads:
+
+01	read(01,*) NPO
+02	read(01,*) NPD1,DXP1,DYP1
+03	read(01,*) NPD2,DXP2,DYP2
+04	read(01,*) doveread
+05  read(01,*) dovewrite
+06  read(01,*) xyzobs  !!! => Z must be read positive
+07  read(01,*) xyztopocrosta
+08  read(01,*) xyzbasecrosta
